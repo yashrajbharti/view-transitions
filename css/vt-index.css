@@ -2,7 +2,7 @@
     navigation: auto;
 }
 
-/* @keyframes slideToRight {
+@keyframes slideToRight {
     from {
         transform: translateX(0);
         z-index: 2;
@@ -25,4 +25,4 @@
 
 ::view-transition-new(root) {
     animation: none;
-} */
+}
